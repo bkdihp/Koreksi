@@ -1,0 +1,8 @@
+{
+  "name": "Koreksi - Optical Mark Recognition (OMR) Sheet Checker",
+  "description": "Fast and accurate OMR sheet grading and layout tuning software with visual bubble analysis, customizable templates, and answer key evaluation.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
